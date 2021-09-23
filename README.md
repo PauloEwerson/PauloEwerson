@@ -2,8 +2,7 @@
 
 
 I am Paulo Ewerson, <br/>
-Graduated in Systems Analysis and Development, and soon I will specialize in Software Engineering with Agile Methods. <br/>
-I spend a good part of my time studying and trying to evolve in the world of technology.
+Technologist in Systems Analysis and Development and in constant learning. Evolve is the way.  <br/>
 
 :mailbox: Reach me out!
 
