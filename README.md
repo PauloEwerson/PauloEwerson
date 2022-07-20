@@ -6,7 +6,7 @@ Technologist in Systems Analysis and Development and in constant learning. Evolv
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ewerson-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerson-martins-5a3143b6/) [![Mail Badge](https://img.shields.io/badge/-@pauloewerson_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/pauloewerson_) [![Mail Badge](https://img.shields.io/badge/-ewersonmrt-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ewersonmrt@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ewerson-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerson-martins/) [![Mail Badge](https://img.shields.io/badge/-@pauloewerson_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/pauloewerson_) [![Mail Badge](https://img.shields.io/badge/-ewersonmrt-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ewersonmrt@gmail.com)
 
 <!-- TODO: Add last video link -->
 
