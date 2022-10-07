@@ -50,8 +50,9 @@ Thank You for taking the time to view my GitHub Profile :smile: <br/>
 <a href= https://github.com/?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=reddit&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reddit.svg'> </a>
 
-<br><br>
+<br>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
