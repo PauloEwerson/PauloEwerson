@@ -5,7 +5,6 @@
   I am <b>Paulo Ewerson</b> <br/>
 Thank You for taking the time to view my GitHub Profile :smile: <br/>
   
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=PauloEwerson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
   
 ## About Me
   Graduated in Systems Analysis and Development
@@ -13,7 +12,8 @@ Thank You for taking the time to view my GitHub Profile :smile: <br/>
 - 🖥️ Full-Stack development student at <a href="https://github.com/betrybe">@betrybe</a></li>
 - 🌱 I like to learn new things and create connections.
 
-<div align="center">
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=PauloEwerson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+
 <h2> Contact </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerson-martins/)
@@ -53,5 +53,3 @@ Thank You for taking the time to view my GitHub Profile :smile: <br/>
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-  
-</div>
