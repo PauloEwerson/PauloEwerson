@@ -9,7 +9,7 @@ Thank You for taking the time to view my GitHub Profile :smile: <br/>
 ## About Me
   Graduated in Systems Analysis and Development
 - 🔭 I’m currently working at <a href="https://www.linkedin.com/company/atacadao/mycompany/">@Atacadão S.A</a>
-- 🖥️ Full-Stack development student at <a href="https://github.com/betrybe">@betrybe</a></li>
+- 🖥️ Full-Stack development student at <a href="https://github.com/betrybe">@Betrybe</a></li>
 - 🌱 I like to learn new things and create connections.
 
 <br>
