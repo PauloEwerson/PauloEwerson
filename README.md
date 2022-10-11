@@ -6,12 +6,13 @@
 Thank You for taking the time to view my GitHub Profile :smile: <br/>
 </p>
   
-## About Me
-  Graduated in Systems Analysis and Development
-- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/atacadao/mycompany/">@Atacadão S.A</a>
-- 🖥️ Full-Stack development student at <a href="https://github.com/betrybe">@Betrybe</a></li>
-- 🌱 I like to learn new things and create connections.
-
+<h1 align="center">About Me </h1>
+<p align="center">
+  Graduated in Systems Analysis and Development <br>
+🔭 I’m currently working at <a href="https://www.linkedin.com/company/atacadao/mycompany/">@Atacadão S.A</a> <br>
+🖥️ Full-Stack development student at <a href="https://github.com/betrybe">@Betrybe</a></li> <br>
+🌱 I like to learn new things and create connections.
+</p>
 <br>
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PauloEwerson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
