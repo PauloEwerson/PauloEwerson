@@ -15,6 +15,14 @@ Thank You for taking the time to view my GitHub Profile :smile: <br/>
 </p>
 <br>
 
+<div align="center"> 
+  <a href = "mailto:ewersonmrt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://in.linkedin.com/in/PauloEwerson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+</br>
+</br>
+
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PauloEwerson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
 
 <h2> Contact </h2>
