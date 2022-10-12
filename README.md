@@ -29,8 +29,6 @@ Thank You for taking the time to view my GitHub Profile :smile: <br/>
     </a>
 </div>
 
-
-
 </br>
 <hr>
 
@@ -38,11 +36,8 @@ Thank You for taking the time to view my GitHub Profile :smile: <br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F&r" />
-
   <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" />
-  
   <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
-  
   <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" />
 </div>
 
@@ -75,6 +70,18 @@ Thank You for taking the time to view my GitHub Profile :smile: <br/>
 </br>
 <hr>
 
+<div align="center">
+<h1> Projects </h1>
+  <a href="https://github.com/PauloEwerson/TFC-Trybe-Futebol-Clube" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauloEwerson&repo=TFC-Trybe-Futebol-Clube&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
+  </a>
+  <a href="https://github.com/PauloEwerson/Proffy" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauloEwerson&repo=Proffy&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
+  </a>
+</div>
+
+</br>
+<hr>
 
 <div align="center">
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
