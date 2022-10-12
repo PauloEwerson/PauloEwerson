@@ -23,20 +23,23 @@ Thank You for taking the time to view my GitHub Profile :smile: <br/>
 </br>
 </br>
 
+<div align="center">
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PauloEwerson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+</div>
 
-<h2> Contact </h2>
+</br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerson-martins/)
-[![Mail Badge](https://img.shields.io/badge/-GMAIL-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ewersonmrt@gmail.com)
+<h1 align="center"> Top Technologies </h1>
 
-<h2> Top Technologies </h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F&r" />
 
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+  <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" />
+  
+  <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
+  
+  <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" />
+</div>
 
 <h2> Skills </h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
