@@ -23,9 +23,13 @@ Thank You for taking the time to view my GitHub Profile :smile: <br/>
 </br>
 </br>
 
-<div align="center">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PauloEwerson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PauloEwerson&show_icons=true&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21" />
+    </a>
 </div>
+
+
 
 </br>
 <hr>
