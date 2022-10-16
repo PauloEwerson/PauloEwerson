@@ -78,6 +78,9 @@ Thank You for taking the time to view my GitHub Profile :smile: <br/>
   <a href="https://github.com/PauloEwerson/Proffy" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauloEwerson&repo=Proffy&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
   </a>
+  <a href="https://github.com/PauloEwerson/npsMail" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PauloEwerson&repo=npsMail&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
+  </a>
 </div>
 
 </br>
