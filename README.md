@@ -1,17 +1,17 @@
-<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
+<h1 align="center"> Olá < dev /> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+
 
 <p align="center">
-  I am <b>Paulo Ewerson</b> <br/>
-Thank You for taking the time to view my GitHub Profile :smile: <br/>
+  Meu nome é <b>Paulo Ewerson</b> <br/>
+Obrigado por reservar um tempo para ver meu perfil do GitHub :smile: <br/>
 </p>
   
 <h1 align="center">About Me </h1>
 <p align="center">
-  Graduated in Systems Analysis and Development <br>
-🔭 I’m currently working at <a href="https://www.linkedin.com/company/atacadao/mycompany/">@Atacadão S.A</a> <br>
-🖥️ Full-Stack development student at <a href="https://github.com/betrybe">@Betrybe</a></li> <br>
-🌱 I like to learn new things and create connections.
+  Graduado em Análise e Desenvolvimento de Sistemas <br>
+🔭 Atualmente trabalho no <a href="https://www.linkedin.com/company/atacadao/mycompany/">@Atacadão S.A</a> <br>
+🖥️ Beyond na <a href="https://github.com/betrybe">@Betrybe</a></li> <br>
+🌱 Minha paixão por aprender coisas novas me impulsiona a criar conexões significativas com pessoas e tecnologias, expandindo constantemente meu conhecimento e horizontes.
 </p>
 <br>
 
